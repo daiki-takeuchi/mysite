@@ -1,0 +1,13 @@
+.DS_Store
+.metadata
+.project
+.pydevproject
+.settings/
+.idea
+*.pyc
+__pycache__/
+/media/
+*~
+\#*\#
+*.sqlite3
+.gitignore
